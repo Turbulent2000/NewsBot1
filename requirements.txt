@@ -1,3 +1,6 @@
-requests==2.28.0
-python-telegram-bot==20.0
-beautifulsoup4==4.11.1
+aiogram==2.25.1
+requests==2.31.0
+feedparser==6.0.10
+gtts==2.3.2
+apscheduler==3.10.4
+sqlite3==3.36.0  # SQLite встроен в Python, но оставлено для справки
